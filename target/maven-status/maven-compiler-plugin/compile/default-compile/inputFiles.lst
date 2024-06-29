@@ -1,0 +1,11 @@
+/Users/user/Codes/project/other/app/src/main/java/com/library/app/MainApplication.java
+/Users/user/Codes/project/other/app/src/main/java/com/library/app/controller/BookController.java
+/Users/user/Codes/project/other/app/src/main/java/com/library/app/controller/DashboardController.java
+/Users/user/Codes/project/other/app/src/main/java/com/library/app/controller/MemberController.java
+/Users/user/Codes/project/other/app/src/main/java/com/library/app/controller/TransactionController.java
+/Users/user/Codes/project/other/app/src/main/java/com/library/app/model/Books.java
+/Users/user/Codes/project/other/app/src/main/java/com/library/app/model/Members.java
+/Users/user/Codes/project/other/app/src/main/java/com/library/app/model/Transactions.java
+/Users/user/Codes/project/other/app/src/main/java/com/library/app/repository/BookRepository.java
+/Users/user/Codes/project/other/app/src/main/java/com/library/app/repository/MemberRepository.java
+/Users/user/Codes/project/other/app/src/main/java/com/library/app/repository/TransactionRepository.java
